@@ -1,0 +1,16 @@
+main{
+    width: 1200px;
+    margin: 0 auto;
+}
+
+.titulo{
+    font-size: 35px;
+    text-align: center;
+}
+
+.menu{
+    font-size: 19px;
+    align-items: flex-start;
+    line-height: 19px;
+    justify-content: right;
+}
