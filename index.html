@@ -37,9 +37,14 @@
             <label>E-mail: </label>
             <input type="email" id="email">
         </p>
-        <p class="linha-botao">
-            <button>Enviar</button>
+        <p>
+            <label>Mensagem: </label>
+            <textarea id="mensagem"></textarea>
         </p>
+        <p class="linha-botao">
+            <button type="button" onclick="fnRegistrarContato()">Enviar</button>
+        </p>
+        <p id="informacoes"></p>
     </form>
 
 </body>

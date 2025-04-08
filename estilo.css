@@ -47,6 +47,9 @@ table {
 	border-spacing: 0;
 }
 
+body{
+    font-family: roboto;
+}
 main {
     width: 1200px;
     margin: 0 auto;
@@ -93,3 +96,85 @@ main {
     justify-content: center;
 
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.contato{
+    background-color: #b3e0ff;
+    text-align: center;
+    font-weight: bold;
+    font-size: 34px;
+    padding-top: 23px;
+    padding-bottom: 23px;
+}
+
+.rotulo{
+    font-weight: bold;
+    font-family: "Roboto";
+    font-size: 30px;
+    display: block;
+}
+
+.campo-texto{
+    font-size: 16px;
+    color: black;
+    padding: 7px 10px;
+}
+
+.form-contato input, .form-contato textarea{
+    width: 417px;
+    padding: 8px;
+    box-sizing: border-box;
+}
+
+.form-contato label{
+    margin-bottom: 5px;
+}
+
+.form-contato{
+display: flex;
+flex-direction: column;
+margin-bottom: 15px;
+}
+
+.botao-enviar{
+    font-family: Roboto;
+    font-size: 25px;
+    font-weight: bold;
+    padding: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    background-color: #b3e0ff;
+}
+
+.formulario{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border:  1px solid;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+
+
+
+
+
+
+
