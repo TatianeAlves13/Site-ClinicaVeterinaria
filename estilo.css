@@ -57,7 +57,7 @@ main {
 
 .titulo{
     width: 500px;
-    background-color: #b3e0ff;
+    background-color: cyan
     font-size: 35px;
     text-align: center;
     justify-content: center;
@@ -65,7 +65,7 @@ main {
 }
 
 .home{
-    background-color: #b3e0ff;
+    background-color: cyan;
     width: 500px;
 }
 
@@ -75,7 +75,7 @@ main {
     align-items: flex-start;
     line-height: 19px;
     justify-content: right;
-    background-color: #6a0dad;
+    background-color: black;
 }
 
 .imagem-pets{
@@ -86,7 +86,7 @@ main {
     margin: 20px auto;
     border-radius: 10px;
     box-shadow: 0 0 10px rgba(0,0,0,0.1);
-    background-color: #b3e0ff;
+    background-color: cyan;
 }
 
 .servicos{
@@ -94,7 +94,6 @@ main {
     font-size:  35px;
     text-align: center;
     justify-content: center;
-
 }
 
 
